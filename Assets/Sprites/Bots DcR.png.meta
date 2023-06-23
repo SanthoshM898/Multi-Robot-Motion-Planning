@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: f957030fb4644364face79bf458b42b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bots DcR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2729
+        width: 380
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476d8927ba1b2849970b791241650c9
+      internalID: -1950473334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2726
+        width: 390
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed2d992c18321946bc51939d463b8a7
+      internalID: -1277715833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_2
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2725
+        width: 390
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab764b3cc0041f24cb664673dff71422
+      internalID: -1766213137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_3
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2729
+        width: 382
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfd623aa03532a43b51c593c1bdc556
+      internalID: 1546116754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_4
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 2725
+        width: 390
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47194ba0ef6f049449538c5cabc49fec
+      internalID: -1937967436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_5
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 2725
+        width: 388
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c87261bc48dd0946925449a3fec0578
+      internalID: -1011981910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2277
+        width: 380
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a003e1c8926b7479b6f5fd42c503f1
+      internalID: 1979240620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2274
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12775013d0361494aaa3cd3026777c67
+      internalID: -1253316384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_8
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2273
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85835fab26c1d8544b6a56efe85a3ba9
+      internalID: 1453894432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_9
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2277
+        width: 382
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b7dffeadc7f5e49bb73587d7048e50
+      internalID: 520526113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_10
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 2273
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e923a977a7b83499bd1b98169a7e35
+      internalID: 1701154666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_11
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 2273
+        width: 388
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00396ba6f552024588c16b32291f9a1
+      internalID: 666572825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1825
+        width: 380
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b573368788c3a2741b7cfca8f2f790fa
+      internalID: -418665219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1821
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd7b12fee83904086c08cdbb203d94
+      internalID: -1272632125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_14
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1821
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6374bfa0f5a93a4fb6a33d421b8cdcc
+      internalID: 400902613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_15
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1824
+        width: 382
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4362d5630a4ed4cb7646be8dfb20a9
+      internalID: 1926713498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_16
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1821
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc3df28f2c4684ba8b5663eb305a90
+      internalID: 150179418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_17
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 1819
+        width: 388
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954e7dccb8ed3164aa5d8eb6a11f9f80
+      internalID: 450090998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1371
+        width: 380
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57e90d2686eb849b34bcdb4a3199aa
+      internalID: -178079827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1367
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767739329497de24387c67e7b7f15d11
+      internalID: 260477902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1366
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fcb38f042d18e449e32809c862ee1f
+      internalID: 390270954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_21
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1370
+        width: 382
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a6dddfd24a574fa287648a19f0fe3
+      internalID: 125434802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_22
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1366
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602dbf7ce589f7c408a42627af98916a
+      internalID: -1963217686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_23
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 1366
+        width: 388
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c80dcfbf053b649834e4904268456f
+      internalID: -1624248923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 380
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5408b61359b9479fcfe33b2230efb
+      internalID: 146764917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_25
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 912
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f327d7fccd6cf424a9e4f36195a185b7
+      internalID: -462567492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_26
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 911
+        width: 390
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a4e332b667d3845814ee5da3d34f63
+      internalID: -447297568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_27
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 915
+        width: 382
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79310fdebd78e2489ed3ae4aa3f7534
+      internalID: -575401398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_28
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 911
+        width: 390
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14722af46181add4c826d9a2eab3c78c
+      internalID: -668400935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_29
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 911
+        width: 388
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f1525a81e4c54183691b774ca5308
+      internalID: 254760148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 380
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ee6f6c263dc64393ef71ed31cff68
+      internalID: -1712984112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_31
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 456
+        width: 390
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d78ea034dd3944eaab00e030a1282d
+      internalID: -1737115487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_32
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 456
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985c113e2b8f1346b958327d2bb0cf1
+      internalID: -2111211500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_33
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 459
+        width: 382
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b653576bd0ef0d4fa4906e513d7b49c
+      internalID: -1129839422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_34
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 456
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d4b10f319af2f4e88fa56136b51d33
+      internalID: -1708095969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_35
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 454
+        width: 388
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478310f59544ff4e8caaa32ef881e03
+      internalID: -746563753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 380
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267011a50e6f8046a258e6b703916a9
+      internalID: -1628513741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_37
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 390
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4caca5a369574a8605b182c658127
+      internalID: -432810472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_38
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 390
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f64b478a665a84b82b3c6b796d451a
+      internalID: 1740196876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_39
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 3
+        width: 382
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33cf925b221d064d81152630e0df7be
+      internalID: -1548178552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_40
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 0
+        width: 390
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d357995047fbf4eb0540f203d74a14
+      internalID: -1192137063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bots DcR_41
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 0
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60536485a0dbd54f9355ba8b0656525
+      internalID: 1519580761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bots DcR_8: 1453894432
+      Bots DcR_7: -1253316384
+      Bots DcR_5: -1011981910
+      Bots DcR_16: 150179418
+      Bots DcR_39: -1548178552
+      Bots DcR_19: 260477902
+      Bots DcR_4: -1937967436
+      Bots DcR_2: -1766213137
+      Bots DcR_26: -447297568
+      Bots DcR_6: 1979240620
+      Bots DcR_9: 520526113
+      Bots DcR_30: -1712984112
+      Bots DcR_21: 125434802
+      Bots DcR_10: 1701154666
+      Bots DcR_0: -1950473334
+      Bots DcR_31: -1737115487
+      Bots DcR_17: 450090998
+      Bots DcR_29: 254760148
+      Bots DcR_25: -462567492
+      Bots DcR_28: -668400935
+      Bots DcR_32: -2111211500
+      Bots DcR_40: -1192137063
+      Bots DcR_36: -1628513741
+      Bots DcR_3: 1546116754
+      Bots DcR_23: -1624248923
+      Bots DcR_35: -746563753
+      Bots DcR_1: -1277715833
+      Bots DcR_27: -575401398
+      Bots DcR_14: 400902613
+      Bots DcR_38: 1740196876
+      Bots DcR_15: 1926713498
+      Bots DcR_20: 390270954
+      Bots DcR_24: 146764917
+      Bots DcR_11: 666572825
+      Bots DcR_37: -432810472
+      Bots DcR_13: -1272632125
+      Bots DcR_22: -1963217686
+      Bots DcR_12: -418665219
+      Bots DcR_18: -178079827
+      Bots DcR_33: -1129839422
+      Bots DcR_34: -1708095969
+      Bots DcR_41: 1519580761
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
